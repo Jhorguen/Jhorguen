@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando en **[Parkiba](https://github.com/Jhorguen/Parkiba)** y con **Automeli**
+- 🔭 Actualmente trabajando en **[Parkiba](https://parkiba.vercel.app/)** y con **Automeli**
 - 🌱 Profundizando en **Java** y **Spring Boot**
 - 💬 Pregúntame sobre **Python, HTML/CSS y Git**
 - 📫 Contáctame por **LinkedIn** (abajo ⬇️)
